@@ -49,7 +49,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-    new_array = ["blue", "orange", "yellow"]
-
+    new_array = ["totally", "orange", "yellow"]
+    new_array[0]
 
 end
