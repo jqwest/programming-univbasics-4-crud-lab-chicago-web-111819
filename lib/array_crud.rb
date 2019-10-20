@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   color_of_doors = ["blue", "orange", "black"]
-  new_color = "pink"
+  new_color = "wow"
   color_of_doors.unshift(new_color)
 
 end
