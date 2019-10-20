@@ -50,7 +50,7 @@ end
 
 def update_element_from_index(array, index_number, element)
   famous_cats = ["wow", "tony", "grumpy", "arrays!"]
-  famous_cats[2]
-  famous_cats.index("wow")
+  p famous_cats[2]
+  p famous_cats.index("wow")
 
 end
