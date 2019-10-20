@@ -32,7 +32,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   famous_cats = ["am", "tony", "grumpy", "arrays!"]
-  p famous_cats[0]
+  return famous_cats[0]
 end
 
 def retrieve_first_element_from_array(array)
